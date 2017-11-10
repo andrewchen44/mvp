@@ -1,0 +1,30 @@
+{
+  "name": "hrsf83-mvp",
+  "version": "1.0.0",
+  "description": "mvp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrewchen44/hrsf83-mvp.git"
+  },
+  "author": "Andrew Chen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andrewchen44/hrsf83-mvp/issues"
+  },
+  "homepage": "https://github.com/andrewchen44/hrsf83-mvp#readme",
+  "dependencies": {
+    "1.0.1": "^1.0.0",
+    "angular": "^1.6.6",
+    "bootstrap": "^3.3.7",
+    "express": "^4.16.2",
+    "grunt": "^0.4.5",
+    "grunt-contrib-sass": "^0.8.0",
+    "jquery": "^3.2.1",
+    "mongodb": "^2.2.33",
+    "underscore": "^1.8.3"
+  }
+}
